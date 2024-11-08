@@ -30,3 +30,6 @@ RMMZ의 기본 오토세이브는 한 칸 밖에 지원을 안해줍니다.
 세이브슬롯의 총 수는 (maxSavefiles + numSaveSlots) 입니다.
 
 플러그인 커맨드는 없습니다.
+
+![image](https://github.com/user-attachments/assets/cd840234-6788-4672-bbe5-2b49b46e177b)
+
