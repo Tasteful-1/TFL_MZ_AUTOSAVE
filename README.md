@@ -1,8 +1,13 @@
 TFL_MZ_AUTOSAVE.js
+
 -----------------------------------
+
 ver1.00
+
 Copyright (c) 2024 tasteful
+
 This software is released under the MIT license.
+
 http://opensource.org/licenses/mit-license.php
 
  
