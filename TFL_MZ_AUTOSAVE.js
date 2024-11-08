@@ -84,7 +84,7 @@
 	const parameters = PluginManager.parameters(pluginName);
 	const maxSavefiles = Number(parameters["maxSavefiles"] || 20);
 	const numSaveSlots = Number(parameters["numSaveSlots"] || 5);
-	const autosaveText = String(parameters["AutoSaveText"] || '자동저장');
+	const autosaveText = String(parameters["AutoSaveText"] || 'Autosave');
 
 //****************************************
 	// Optautosave 를 true로 고정
