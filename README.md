@@ -1,0 +1,28 @@
+//=============================================================================
+// TFL_MZ_AUTOSAVE.js
+// ----------------------------------------------------------------------------
+// ver1.00
+// Copyright (c) 2024 tasteful
+// This software is released under the MIT license.
+// http://opensource.org/licenses/mit-license.php
+//=============================================================================
+ 
+ * RMMZ’s default autosave only saves to one slot.
+ *
+ * This plugin expands autosave to multiple slots,
+ *
+ * automatically saving in sequence to your chosen slots.
+ *
+ * The total number of save slots is (maxSavefiles + numSaveSlots).
+ *
+ * It does not provide plugin commands.
+
+ * RMMZ의 기본 오토세이브는 한 칸 밖에 지원을 안해줍니다.
+ *
+ * 이 플러그인은 사용자가 지정한 세이브 슬롯들을 순회하며,
+ *
+ * 더 많은 슬롯을 대상으로 오토세이브를 지원할 수 있습니다.
+ *
+ * 세이브슬롯의 총 수는 (maxSavefiles + numSaveSlots) 입니다.
+ *
+ * 플러그인 커맨드는 없습니다.
